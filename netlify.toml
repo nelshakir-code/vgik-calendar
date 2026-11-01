@@ -1,8 +1,9 @@
 [build]
   publish = "public"
-  functions = "netlify/functions"
 
-[[redirects]]
-  from = "/calendar.ics"
-  to = "/.netlify/functions/calendar"
-  status = 200
+[[headers]]
+  for = "/calendar.ics"
+  [headers.values]
+    Content-Type = "text/calendar; charset=utf-8"
+    Cache-Control = "public, max-age=900, must-revalidate"
+    X-Content-Type-Options = "nosniff"
