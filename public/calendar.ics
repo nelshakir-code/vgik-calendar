@@ -434,92 +434,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:vgik-dce6e809@rasp.vgik.info
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101000
-DTEND;TZID=Europe/Moscow:20261013T114000
-SUMMARY:Монтаж интерактивных медиа
-LOCATION:Учебная киностудия\, ауд. 221 (Final Cut Pro)
-DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
- ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
- исание автоматически обновляется с сайт
- а ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-3bc60add@rasp.vgik.info
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T115000
-DTEND;TZID=Europe/Moscow:20261013T132000
-SUMMARY:Кинодраматургия
-LOCATION:Новый\, ауд. зал 1009
-DESCRIPTION:Преподаватель: Марусенков В. В.\nГр
- уппа: 1 Мастерская Алибекова А. С. (2026)\nРас
- писание автоматически обновляется с сай
- та ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-80fde77b@rasp.vgik.info
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T135000
-DTEND;TZID=Europe/Moscow:20261013T152000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1015
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-848fefc4@rasp.vgik.info
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T153000
-DTEND;TZID=Europe/Moscow:20261013T170000
-SUMMARY:Компьютерная графика и анимация
-LOCATION:Новый\, ауд. 1015
-DESCRIPTION:Преподаватель: Ветюков А. В.\nГрупп
- а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
- ание автоматически обновляется с сайта 
- ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-45573764@rasp.vgik.info
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T171000
-DTEND;TZID=Europe/Moscow:20261013T184000
-SUMMARY:Искусство речи
-LOCATION:Исторический\, ауд. 317
-DESCRIPTION:Преподаватель: Белоногова Ф. М.\nГр
- уппа: 1 Мастерская Алибекова А. С. (2026)\nРас
- писание автоматически обновляется с сай
- та ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:vgik-8d8346ad@rasp.vgik.info
 DTSTAMP:20261215T000000Z
 DTSTART;TZID=Europe/Moscow:20261215T101000
@@ -1144,6 +1058,128 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:vgik-38e6fc66@rasp.vgik.info
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=Europe/Moscow:20261229T101000
+DTEND;TZID=Europe/Moscow:20261229T114000
+SUMMARY:Монтаж интерактивных медиа
+LOCATION:Учебная киностудия\, ауд. 221 (Final Cut Pro)
+DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-00067112@rasp.vgik.info
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=Europe/Moscow:20261229T115000
+DTEND;TZID=Europe/Moscow:20261229T132000
+SUMMARY:Кинодраматургия
+LOCATION:Новый\, ауд. зал 1009
+DESCRIPTION:Преподаватель: Марусенков В. В.\nГр
+ уппа: 1 Мастерская Алибекова А. С. (2026)\nРас
+ писание автоматически обновляется с сай
+ та ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-f92a7d03@rasp.vgik.info
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=Europe/Moscow:20261229T135000
+DTEND;TZID=Europe/Moscow:20261229T152000
+SUMMARY:Основы компьютерного виртуального м
+ оделирования
+LOCATION:Новый\, ауд. 1015
+DESCRIPTION:Преподаватель: Ярушников Ю. К.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-1387744b@rasp.vgik.info
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=Europe/Moscow:20261229T153000
+DTEND;TZID=Europe/Moscow:20261229T170000
+SUMMARY:Основы компьютерного виртуального м
+ оделирования
+LOCATION:Новый\, ауд. 1015
+DESCRIPTION:Преподаватель: Ярушников Ю. К.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-642140bd@rasp.vgik.info
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=Europe/Moscow:20261229T171000
+DTEND;TZID=Europe/Moscow:20261229T184000
+SUMMARY:Искусство речи
+LOCATION:Исторический\, ауд. 317
+DESCRIPTION:Преподаватель: Белоногова Ф. М.\nГр
+ уппа: 1 Мастерская Алибекова А. С. (2026)\nРас
+ писание автоматически обновляется с сай
+ та ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-4ee57a23@rasp.vgik.info
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=Europe/Moscow:20261229T185000
+DTEND;TZID=Europe/Moscow:20261229T202000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1015
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-026f6e76@rasp.vgik.info
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=Europe/Moscow:20261229T203000
+DTEND;TZID=Europe/Moscow:20261229T220000
+SUMMARY:Компьютерная графика и анимация
+LOCATION:Новый\, ауд. 1018
+DESCRIPTION:Преподаватель: Ветюков А. В.\nГрупп
+ а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
+ ание автоматически обновляется с сайта 
+ ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:vgik-bbf4fb4b@rasp.vgik.info
 DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T101000
@@ -1509,129 +1545,6 @@ DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
 URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
  ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-11-0
  9&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-39f4601b@rasp.vgik.info
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101000
-DTEND;TZID=Europe/Moscow:20261012T114000
-SUMMARY:История отечественного кино
-LOCATION:Новый\, ауд. 915
-DESCRIPTION:Преподаватель: Николаева-Чинарова
-  А. П.\nГруппа: 1 Мастерская Алибекова А. С. 
- (2026)\nРасписание автоматически обновляет
- ся с сайта ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-e84e15ed@rasp.vgik.info
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T115000
-DTEND;TZID=Europe/Moscow:20261012T132000
-SUMMARY:История отечественного кино
-LOCATION:Новый\, ауд. ККЗ
-DESCRIPTION:Преподаватель: Волкова Е. Ю.\nГрупп
- а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
- ание автоматически обновляется с сайта 
- ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-9aeb14ad@rasp.vgik.info
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T135000
-DTEND;TZID=Europe/Moscow:20261012T152000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 917
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-2275aa36@rasp.vgik.info
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T153000
-DTEND;TZID=Europe/Moscow:20261012T170000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1014
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-5c37089a@rasp.vgik.info
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T171000
-DTEND;TZID=Europe/Moscow:20261012T184000
-SUMMARY:Антология современной анимации
-LOCATION:Новый\, ауд. 1019
-DESCRIPTION:Преподаватель: Лукиных Н. В.\nГрупп
- а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
- ание автоматически обновляется с сайта 
- ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-96d35976@rasp.vgik.info
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T185000
-DTEND;TZID=Europe/Moscow:20261012T202000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1017
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-4e6a97df@rasp.vgik.info
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T203000
-DTEND;TZID=Europe/Moscow:20261012T220000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1017
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -2374,6 +2287,129 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:vgik-ce58f2ee@rasp.vgik.info
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=Europe/Moscow:20261228T101000
+DTEND;TZID=Europe/Moscow:20261228T114000
+SUMMARY:История отечественного кино
+LOCATION:Новый\, ауд. 915
+DESCRIPTION:Преподаватель: Николаева-Чинарова
+  А. П.\nГруппа: 1 Мастерская Алибекова А. С. 
+ (2026)\nРасписание автоматически обновляет
+ ся с сайта ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-ba57136a@rasp.vgik.info
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=Europe/Moscow:20261228T115000
+DTEND;TZID=Europe/Moscow:20261228T132000
+SUMMARY:История отечественного кино
+LOCATION:Новый\, ауд. ККЗ
+DESCRIPTION:Преподаватель: Волкова Е. Ю.\nГрупп
+ а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
+ ание автоматически обновляется с сайта 
+ ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-fd71c80a@rasp.vgik.info
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=Europe/Moscow:20261228T135000
+DTEND;TZID=Europe/Moscow:20261228T152000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 917
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-934706f3@rasp.vgik.info
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=Europe/Moscow:20261228T153000
+DTEND;TZID=Europe/Moscow:20261228T170000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1014
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-387c8b75@rasp.vgik.info
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=Europe/Moscow:20261228T171000
+DTEND;TZID=Europe/Moscow:20261228T184000
+SUMMARY:Антология современной анимации
+LOCATION:Новый\, ауд. 1019
+DESCRIPTION:Преподаватель: Лукиных Н. В.\nГрупп
+ а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
+ ание автоматически обновляется с сайта 
+ ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-30951bf7@rasp.vgik.info
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=Europe/Moscow:20261228T185000
+DTEND;TZID=Europe/Moscow:20261228T202000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1017
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-8654ebfa@rasp.vgik.info
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=Europe/Moscow:20261228T203000
+DTEND;TZID=Europe/Moscow:20261228T220000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1017
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:vgik-c32016bc@rasp.vgik.info
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=Europe/Moscow:20261130T101000
@@ -2493,6 +2529,111 @@ DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
 URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
  ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-11-3
  0&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-69b7a8e2@rasp.vgik.info
+DTSTAMP:20270101T000000Z
+DTSTART;TZID=Europe/Moscow:20270101T083000
+DTEND;TZID=Europe/Moscow:20270101T100000
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:Новый\, ауд. зал 910
+DESCRIPTION:Преподаватель: Матюшина Е. А.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-b3fd0d0d@rasp.vgik.info
+DTSTAMP:20270101T000000Z
+DTSTART;TZID=Europe/Moscow:20270101T101000
+DTEND;TZID=Europe/Moscow:20270101T114000
+SUMMARY:Физическая культура и спорт
+LOCATION:Новый\, ауд. зал 910
+DESCRIPTION:Преподаватель: Драгунская Е. Б. \, К
+ удрявцева О. Н. \, Манцева Ю. А.\nГруппа: 1 Ма
+ стерская Алибекова А. С. (2026)\nРасписание 
+ автоматически обновляется с сайта ВГИКа
+ .
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-f1313959@rasp.vgik.info
+DTSTAMP:20270101T000000Z
+DTSTART;TZID=Europe/Moscow:20270101T135000
+DTEND;TZID=Europe/Moscow:20270101T152000
+SUMMARY:Моделирование в технологии захвата 
+ движения
+LOCATION:Новый\, ауд. 1015
+DESCRIPTION:Преподаватель: Южалов В. В.\nГруппа:
+  1 Мастерская Алибекова А. С. (2026)\nРасписа
+ ние автоматически обновляется с сайта В
+ ГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-526bfd32@rasp.vgik.info
+DTSTAMP:20270101T000000Z
+DTSTART;TZID=Europe/Moscow:20270101T153000
+DTEND;TZID=Europe/Moscow:20270101T170000
+SUMMARY:Монтаж интерактивных медиа
+LOCATION:Учебная киностудия\, ауд. 221 (Final Cut Pro)
+DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-8abb2ed9@rasp.vgik.info
+DTSTAMP:20270101T000000Z
+DTSTART;TZID=Europe/Moscow:20270101T171000
+DTEND;TZID=Europe/Moscow:20270101T184000
+SUMMARY:Монтаж интерактивных медиа
+LOCATION:Учебная киностудия\, ауд. 221 (Final Cut Pro)
+DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-e1f161f8@rasp.vgik.info
+DTSTAMP:20270101T000000Z
+DTSTART;TZID=Europe/Moscow:20270101T185000
+DTEND;TZID=Europe/Moscow:20270101T202000
+SUMMARY:Визуальное решение интерактивных ме
+ диа и голографии
+LOCATION:Новый\, ауд. 1020
+DESCRIPTION:Преподаватель: Максимова А. А.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -2913,111 +3054,6 @@ DESCRIPTION:Преподаватель: Максимова А. А.\nГру
 URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
  ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-11-0
  9&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-7a7fb19b@rasp.vgik.info
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100000
-SUMMARY:Безопасность жизнедеятельности
-LOCATION:Новый\, ауд. зал 910
-DESCRIPTION:Преподаватель: Матюшина Е. А.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-eff5a500@rasp.vgik.info
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101000
-DTEND;TZID=Europe/Moscow:20261016T114000
-SUMMARY:Физическая культура и спорт
-LOCATION:Новый\, ауд. зал 910
-DESCRIPTION:Преподаватель: Драгунская Е. Б. \, К
- удрявцева О. Н. \, Манцева Ю. А.\nГруппа: 1 Ма
- стерская Алибекова А. С. (2026)\nРасписание 
- автоматически обновляется с сайта ВГИКа
- .
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-90a4b820@rasp.vgik.info
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T135000
-DTEND;TZID=Europe/Moscow:20261016T152000
-SUMMARY:Моделирование в технологии захвата 
- движения
-LOCATION:Новый\, ауд. 1015
-DESCRIPTION:Преподаватель: Южалов В. В.\nГруппа:
-  1 Мастерская Алибекова А. С. (2026)\nРасписа
- ние автоматически обновляется с сайта В
- ГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-9ee8f96f@rasp.vgik.info
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T153000
-DTEND;TZID=Europe/Moscow:20261016T170000
-SUMMARY:Монтаж интерактивных медиа
-LOCATION:Учебная киностудия\, ауд. 221 (Final Cut Pro)
-DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
- ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
- исание автоматически обновляется с сайт
- а ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-0d94e1fc@rasp.vgik.info
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T171000
-DTEND;TZID=Europe/Moscow:20261016T184000
-SUMMARY:Монтаж интерактивных медиа
-LOCATION:Учебная киностудия\, ауд. 221 (Final Cut Pro)
-DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
- ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
- исание автоматически обновляется с сайт
- а ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-cb366e77@rasp.vgik.info
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T185000
-DTEND;TZID=Europe/Moscow:20261016T202000
-SUMMARY:Визуальное решение интерактивных ме
- диа и голографии
-LOCATION:Новый\, ауд. 1020
-DESCRIPTION:Преподаватель: Максимова А. А.\nГру
- ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
- исание автоматически обновляется с сайт
- а ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4136,127 +4172,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:vgik-25212926@rasp.vgik.info
-DTSTAMP:20261014T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100000
-SUMMARY:Философия
-LOCATION:Новый\, ауд. зал 910
-DESCRIPTION:Преподаватель: Никитина И. П.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-8dbf6b40@rasp.vgik.info
-DTSTAMP:20261014T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101000
-DTEND;TZID=Europe/Moscow:20261014T114000
-SUMMARY:История зарубежной литературы
-LOCATION:Новый\, ауд. 915
-DESCRIPTION:Преподаватель: Михайлова Т. В.\nГру
- ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
- исание автоматически обновляется с сайт
- а ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-4ac295ec@rasp.vgik.info
-DTSTAMP:20261014T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T115000
-DTEND;TZID=Europe/Moscow:20261014T132000
-SUMMARY:История России
-LOCATION:Новый\, ауд. ККЗ
-DESCRIPTION:Преподаватель: Зуйков В. С.\nГруппа:
-  1 Мастерская Алибекова А. С. (2026)\nРасписа
- ние автоматически обновляется с сайта В
- ГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-c7ccacf7@rasp.vgik.info
-DTSTAMP:20261014T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T135000
-DTEND;TZID=Europe/Moscow:20261014T152000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1020
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-3565b173@rasp.vgik.info
-DTSTAMP:20261014T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T153000
-DTEND;TZID=Europe/Moscow:20261014T170000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1015
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-28467182@rasp.vgik.info
-DTSTAMP:20261014T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T171000
-DTEND;TZID=Europe/Moscow:20261014T184000
-SUMMARY:Мастерство актера
-LOCATION:Новый\, ауд. 602-1
-DESCRIPTION:Преподаватель: Гуркина И. Н.\nГрупп
- а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
- ание автоматически обновляется с сайта 
- ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-3f909356@rasp.vgik.info
-DTSTAMP:20261014T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T185000
-DTEND;TZID=Europe/Moscow:20261014T202000
-SUMMARY:Мастерство актера
-LOCATION:Исторический\, ауд. зал 3-ий (316)
-DESCRIPTION:Преподаватель: Гуркина И. Н.\nГрупп
- а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
- ание автоматически обновляется с сайта 
- ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:vgik-06f9bd3e@rasp.vgik.info
 DTSTAMP:20261216T000000Z
 DTSTART;TZID=Europe/Moscow:20261216T083000
@@ -4983,6 +4898,181 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:vgik-2853bd1e@rasp.vgik.info
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Moscow:20261230T083000
+DTEND;TZID=Europe/Moscow:20261230T100000
+SUMMARY:Философия
+LOCATION:Новый\, ауд. зал 910
+DESCRIPTION:Преподаватель: Никитина И. П.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-764c9638@rasp.vgik.info
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Moscow:20261230T101000
+DTEND;TZID=Europe/Moscow:20261230T114000
+SUMMARY:История зарубежной литературы
+LOCATION:Новый\, ауд. 915
+DESCRIPTION:Преподаватель: Михайлова Т. В.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-25aabd64@rasp.vgik.info
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Moscow:20261230T115000
+DTEND;TZID=Europe/Moscow:20261230T132000
+SUMMARY:История России
+LOCATION:Новый\, ауд. ККЗ
+DESCRIPTION:Преподаватель: Зуйков В. С.\nГруппа:
+  1 Мастерская Алибекова А. С. (2026)\nРасписа
+ ние автоматически обновляется с сайта В
+ ГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-446ef34f@rasp.vgik.info
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Moscow:20261230T135000
+DTEND;TZID=Europe/Moscow:20261230T152000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1020
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-78bf73eb@rasp.vgik.info
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Moscow:20261230T153000
+DTEND;TZID=Europe/Moscow:20261230T170000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1015
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-6ea3237a@rasp.vgik.info
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Moscow:20261230T171000
+DTEND;TZID=Europe/Moscow:20261230T184000
+SUMMARY:Мастерство актера
+LOCATION:Новый\, ауд. 602-1
+DESCRIPTION:Преподаватель: Гуркина И. Н.\nГрупп
+ а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
+ ание автоматически обновляется с сайта 
+ ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-5a293c9e@rasp.vgik.info
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Moscow:20261230T185000
+DTEND;TZID=Europe/Moscow:20261230T202000
+SUMMARY:Мастерство актера
+LOCATION:Исторический\, ауд. зал 3-ий (316)
+DESCRIPTION:Преподаватель: Гуркина И. Н.\nГрупп
+ а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
+ ание автоматически обновляется с сайта 
+ ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-70ca4b41@rasp.vgik.info
+DTSTAMP:20270102T000000Z
+DTSTART;TZID=Europe/Moscow:20270102T135000
+DTEND;TZID=Europe/Moscow:20270102T152000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1017
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-f612ecd1@rasp.vgik.info
+DTSTAMP:20270102T000000Z
+DTSTART;TZID=Europe/Moscow:20270102T153000
+DTEND;TZID=Europe/Moscow:20270102T170000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1017
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-bfc1af7c@rasp.vgik.info
+DTSTAMP:20270102T000000Z
+DTSTART;TZID=Europe/Moscow:20270102T171000
+DTEND;TZID=Europe/Moscow:20270102T184000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1017
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:vgik-13f9ae9b@rasp.vgik.info
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Moscow:20261205T135000
@@ -5231,78 +5321,6 @@ DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
 URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
  ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-11-0
  9&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-26579aa8@rasp.vgik.info
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T101000
-DTEND;TZID=Europe/Moscow:20261017T114000
-SUMMARY:Физическая культура и спорт
-LOCATION:общежитие ВГИКа\, ауд. Спортивный за
- л
-DESCRIPTION:Преподаватель: Кудрявцева О. Н.\nГр
- уппа: 1 Мастерская Алибекова А. С. (2026)\nРас
- писание автоматически обновляется с сай
- та ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-d7075404@rasp.vgik.info
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T135000
-DTEND;TZID=Europe/Moscow:20261017T152000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1017
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-fc4bb55c@rasp.vgik.info
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T153000
-DTEND;TZID=Europe/Moscow:20261017T170000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1017
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-e77f4df1@rasp.vgik.info
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T171000
-DTEND;TZID=Europe/Moscow:20261017T184000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1017
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -6177,129 +6195,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:vgik-cd286cf2@rasp.vgik.info
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101000
-DTEND;TZID=Europe/Moscow:20261015T114000
-SUMMARY:Основы российской государственност
- и
-LOCATION:Новый\, ауд. ККЗ
-DESCRIPTION:Преподаватель: Андреев А. Л.\nГрупп
- а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
- ание автоматически обновляется с сайта 
- ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-b483e454@rasp.vgik.info
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T115000
-DTEND;TZID=Europe/Moscow:20261015T132000
-SUMMARY:Монтаж интерактивных медиа
-LOCATION:Новый\, ауд. 1015
-DESCRIPTION:Преподаватель: Яременко Е. Г.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-f9d41e61@rasp.vgik.info
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T135000
-DTEND;TZID=Europe/Moscow:20261015T152000
-SUMMARY:Иностранный язык
-LOCATION:Исторический\, ауд. 203
-DESCRIPTION:Преподаватель: Колесник А. Г.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-48f4c596@rasp.vgik.info
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T153000
-DTEND;TZID=Europe/Moscow:20261015T170000
-SUMMARY:Практикум владения иностранным язык
- ом
-LOCATION:Исторический\, ауд. 203
-DESCRIPTION:Преподаватель: Колесник А. Г.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-9064a0cd@rasp.vgik.info
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T171000
-DTEND;TZID=Europe/Moscow:20261015T184000
-SUMMARY:Монтаж интерактивных медиа
-LOCATION:Новый\, ауд. 1020
-DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
- ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
- исание автоматически обновляется с сайт
- а ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-a0c963bd@rasp.vgik.info
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T171000
-DTEND;TZID=Europe/Moscow:20261015T184000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1020
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:vgik-7b2bc7c5@rasp.vgik.info
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T185000
-DTEND;TZID=Europe/Moscow:20261015T202000
-SUMMARY:Режиссура интерактивных медиа и гол
- ографии
-LOCATION:Новый\, ауд. 1020
-DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
- па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
- сание автоматически обновляется с сайта
-  ВГИКа.
-URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
- ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-1
- 2&work_week=6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:vgik-683837c6@rasp.vgik.info
 DTSTAMP:20261217T000000Z
 DTSTART;TZID=Europe/Moscow:20261217T101000
@@ -7034,6 +6929,129 @@ DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
 URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
  ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-10-2
  6&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-330f581e@rasp.vgik.info
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Moscow:20261231T101000
+DTEND;TZID=Europe/Moscow:20261231T114000
+SUMMARY:Основы российской государственност
+ и
+LOCATION:Новый\, ауд. ККЗ
+DESCRIPTION:Преподаватель: Андреев А. Л.\nГрупп
+ а: 1 Мастерская Алибекова А. С. (2026)\nРаспис
+ ание автоматически обновляется с сайта 
+ ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-0a6b56e0@rasp.vgik.info
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Moscow:20261231T115000
+DTEND;TZID=Europe/Moscow:20261231T132000
+SUMMARY:Монтаж интерактивных медиа
+LOCATION:Новый\, ауд. 1015
+DESCRIPTION:Преподаватель: Яременко Е. Г.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-5dad11ad@rasp.vgik.info
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Moscow:20261231T135000
+DTEND;TZID=Europe/Moscow:20261231T152000
+SUMMARY:Иностранный язык
+LOCATION:Исторический\, ауд. 203
+DESCRIPTION:Преподаватель: Колесник А. Г.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-e263f2c2@rasp.vgik.info
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Moscow:20261231T153000
+DTEND;TZID=Europe/Moscow:20261231T170000
+SUMMARY:Практикум владения иностранным язык
+ ом
+LOCATION:Исторический\, ауд. 203
+DESCRIPTION:Преподаватель: Колесник А. Г.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-a4e7c1f1@rasp.vgik.info
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Moscow:20261231T171000
+DTEND;TZID=Europe/Moscow:20261231T184000
+SUMMARY:Монтаж интерактивных медиа
+LOCATION:Новый\, ауд. 1020
+DESCRIPTION:Преподаватель: Гаврилова В. В.\nГру
+ ппа: 1 Мастерская Алибекова А. С. (2026)\nРасп
+ исание автоматически обновляется с сайт
+ а ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-be2da549@rasp.vgik.info
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Moscow:20261231T171000
+DTEND;TZID=Europe/Moscow:20261231T184000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1020
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:vgik-22c4cde9@rasp.vgik.info
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Moscow:20261231T185000
+DTEND;TZID=Europe/Moscow:20261231T202000
+SUMMARY:Режиссура интерактивных медиа и гол
+ ографии
+LOCATION:Новый\, ауд. 1020
+DESCRIPTION:Преподаватель: Алибеков А. С.\nГруп
+ па: 1 Мастерская Алибекова А. С. (2026)\nРаспи
+ сание автоматически обновляется с сайта
+  ВГИКа.
+URL:https://rasp.vgik.info/sections/raspisanie/index.php?sec=schedule&semes
+ ter=2026.1&faculty_id=22&gid=1%2C551&auditory_id=0&schedule_week=2026-12-2
+ 8&work_week=6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
